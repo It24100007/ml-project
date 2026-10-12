@@ -1,10 +1,4 @@
 # Preprocessing & Feature Engineering Decision Log
-**Domain:** Healthcare Informatics — Diabetic Readmission Prediction  
-**Related Report:** [`preprocessing/report.md`](file:///d:/y3s1/ml%20project%20final/Healthcare_Readmission/preprocessing/report.md)  
-**Related Notebooks:** [`preprocessing/preprocessing_notebook_polished.ipynb`](file:///d:/y3s1/ml%20project%20final/Healthcare_Readmission/preprocessing/preprocessing_notebook_polished.ipynb) | [`preprocessing/preprocessing_notebook.ipynb`](file:///d:/y3s1/ml%20project%20final/Healthcare_Readmission/preprocessing/preprocessing_notebook.ipynb)  
-**Output Artifacts:** `dataset_processed/X_train_final.csv`, `X_test_final.csv`, `y_train_final.csv`, `y_test_final.csv`, `preprocessing_pipeline.pkl`
-
----
 
 ## Complete Preprocessing & Feature Engineering Decision Matrix
 
